@@ -1,12 +1,15 @@
 Project Setup Guide
 This guide walks you through the steps of setting up the development environment on Ubuntu, linking an Android app using Maestro, and connecting to the device using ADB.
+
 Prerequisites
+
 1.Ubuntu installed on your PC
 2.Android Studio installed
 3.Node.js and Yarn installed
 4.Java Development Kit (JDK) installed
 5.Git installed
 Once project is developed using the ignite boilerplate.
+
 Android SDK setup
 go to google android dev and download the latest version of the android hedhghoge and install it with all the default modules,
 after that, turn on your emulator, by clicking on "More Options"
